@@ -53,7 +53,7 @@ python main.py
 
 
 
-&#x20;Autor:
+&#x20;Autora:
 
 Stefany Santana 
 
